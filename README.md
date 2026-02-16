@@ -1,7 +1,7 @@
 <h1>DHCP</h1>
 
 <h2>Description</h2>
-This project consists of creating a basic DHCP configuration where I was asked, in a simulated ticket, to create a scope of IP addresses and also create and assign an IP reservation to a specific MAC address.
+This project consists of creating a basic DHCP configuration where I was asked, in a simulated ticket, to create a scope of IP addresses.
 <br />
 <h2>Settings</h2>
 <br />
